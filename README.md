@@ -1,4 +1,4 @@
-Ce projet est conçu pour les une meilleurs compréhension en matière de méthode et conception de projets informatiques, raison pour lequel nous avont créé ce projet en vue de mettre en pratique la théorie apprise à l'auditoire.
+Ce projet est conçu pour une meilleurs compréhension en matière de méthode et conception de projets informatiques, raison pour lequel nous avont créé ce projet en vue de mettre en pratique la théorie apprise à l'auditoire.
 c'est pas une efforts personne mais d'une équipe des étudiants de L2 IG ISP BUKAVU, sous contrôle de l'enseignant BORIBO Philippe.
 on a un peu assayer de faire une pratique sur les projers et exercice donnés par l'enseignant .
 chaque membre du groupe a donné sa part, ses idées, le chef du projet ou l'administrateur a donné des tâches à chacun,
