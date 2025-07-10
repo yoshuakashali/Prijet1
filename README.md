@@ -4,8 +4,8 @@ on a un peu assayer de faire une pratique sur les projers et exercice donnés pa
 chaque membre du groupe a donné sa part, ses idées, le chef du projet ou l'administrateur a donné des tâches à chacun,
 en suite nous avons conçus un rapports final.
 
-LE MAÎTRE D'OEUVRE: c'est le Complexe scolaire pour le TP1
-LES MAÎTRES D'OEUVRES: c'est notre équipe de développeurs L2 IG ISP-BkV
+LE MAÎTRE D'ouvrage: c'est le Complexe scolaire pour le TP1
+LES MAÎTRES D'oeuvre : c'est notre équipe de développeurs L2 IG ISP-BkV
 ==============================================================================================================================================
 
 les membres d'équipe sont et leurs tâches :
